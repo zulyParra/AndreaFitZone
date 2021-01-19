@@ -52,8 +52,8 @@ p {
 
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff6666 !important;
-  border-color: #ff6666 !important;
+  background-color: #e45173 !important;
+  border-color: #e45173 !important;
   color: #ffffff !important;
   box-shadow: 7px 7px 27px -3px rgba(244, 132, 132, 0.20);
 }
@@ -70,8 +70,8 @@ p {
 .btn-secondary.active {
   cursor: pointer;
   color: #ffffff !important;
-  background-color: #ff0f0f !important;
-  border-color: #ff0f0f !important;
+  background-color: #c8133c !important;
+  border-color: #c8133c !important;
 }
 
 .btn-secondary:hover,
@@ -79,31 +79,8 @@ p {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #ff0f0f !important;
-  border-color: #ff0f0f !important;
+  background-color: #c8133c !important;
+  border-color: #c8133c !important;
   box-shadow: 7px 7px 27px -3px rgba(244, 132, 132, 0.20);
 }
  
-.cid-slvzeU183p {
-  padding-top: 0rem;
-  padding-bottom: 10rem;
-  background-image: url();
-}
-
-section {
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.filtro{
-  background-color: #000;
-  bottom: 0;
-  left: 0;
-  opacity: 0.5;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 0;
-  pointer-events: none;
-}
